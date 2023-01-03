@@ -1,4 +1,4 @@
-package br.com.dio.collection.streamAPI;
+package streamAPI;
 
 public class ExemploStream {
 }

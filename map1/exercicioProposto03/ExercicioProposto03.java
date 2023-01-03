@@ -1,4 +1,4 @@
-package br.com.dio.collection.map.exercicioProposto03;
+package map1.exercicioProposto03;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package br.com.dio.collection.map.paraSaberMais;
+package map1.paraSaberMais;
 
 import java.util.*;
 

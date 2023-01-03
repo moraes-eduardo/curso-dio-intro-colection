@@ -1,4 +1,4 @@
-package br.com.dio.collection.map;
+package map1;
 
 import java.util.*;
 

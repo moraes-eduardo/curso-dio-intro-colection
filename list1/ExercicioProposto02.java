@@ -1,4 +1,4 @@
-package br.com.dio.collection.list;
+package list1;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -59,5 +59,7 @@ public class ExercicioProposto02 {
             default:
                 System.out.println(">> INOCENTE <<"); break;
         }
+
+        scanner.close();
     }
 }

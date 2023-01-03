@@ -1,4 +1,4 @@
-package br.com.dio.collection.set;
+package set1;
 
 /*Dadas as seguintes informações sobre minhas séries favoritas,
 crie um conjunto e ordene este conjunto exibindo:

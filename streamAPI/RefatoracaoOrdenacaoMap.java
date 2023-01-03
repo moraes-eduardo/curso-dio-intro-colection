@@ -1,10 +1,10 @@
-package br.com.dio.collection.streamAPI;
+package streamAPI;
 
-import br.com.dio.collection.map.exercicioProposto03.Contato;
+import map1.exercicioProposto03.Contato;
 
 import java.util.*;
-import java.util.function.Consumer;
-import java.util.function.Function;
+// import java.util.function.Consumer;
+// import java.util.function.Function;
 
 /*Dadas as seguintes informações  de id e contato, crie um dicionário e
 ordene este dicionário exibindo (Nome id - Nome contato);

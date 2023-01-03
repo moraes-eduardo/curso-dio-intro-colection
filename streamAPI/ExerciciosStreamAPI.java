@@ -1,10 +1,10 @@
-package br.com.dio.collection.streamAPI;
+package streamAPI;
 
 
 import java.util.*;
-import java.util.function.*;
+// import java.util.function.*;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
+// import java.util.stream.Stream;
 
 public class ExerciciosStreamAPI {
 

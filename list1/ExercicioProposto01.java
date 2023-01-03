@@ -1,8 +1,11 @@
-package br.com.dio.collection.list;
+package list1;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import java.util.Iterator;
+
+//import javax.swing.text.html.HTMLDocument.Iterator;
 
 /*Faça um programa que receba a temperatura média os 6 primeiros meses do ano e armazene-as em uma lista.
 Após isto, calcule a média semestral das temperaturas e mostre todas as temperaturas acima desta média,
@@ -76,6 +79,8 @@ public class ExercicioProposto01 {
             }
             count++;
         }
+
+        scan.close();
     }
 }
 
